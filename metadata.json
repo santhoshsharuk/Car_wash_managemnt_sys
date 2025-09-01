@@ -1,0 +1,5 @@
+{
+  "name": "SparkleClean Car Wash Management",
+  "description": "A comprehensive management and booking system for a single-vendor car wash business. It allows customers to book services, admins to manage operations, and staff to view and update job statuses.",
+  "requestFramePermissions": []
+}
